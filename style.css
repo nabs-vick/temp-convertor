@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(0, 0%, 92%);
+    
+}
+h1{
+    color: brown;
+}
+form{
+   font-family: Verdana, sans-serif;
+   text-align: center;
+   border: 100px,200px ,100px, 200px;
+   background-color: aqua;
+   max-width: 400px;
+   max-height: 500px;
+   margin: auto;
+   padding: 10px;
+   box-shadow: 10px 5px 12px;
+}
+button{
+    border-color: 2px solid;
+    background-color: rgb(168, 7, 47);
+    padding: 5px 2px;
+    border-radius: 10px;
+    margin: 5px 5px 5px;
+
+}
+button:hover{
+    background-color: rgb(223, 7, 7);
+}
+#textbox{
+    text-align: center;
+    border-radius: 5em;
+}
